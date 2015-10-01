@@ -21,7 +21,7 @@
                 <id>jar</id>
             </reference>
             <reference>
-                <foreign-project>BH_Message_Service</foreign-project>
+                <foreign-project>BH_Net_Tools</foreign-project>
                 <artifact-type>jar</artifact-type>
                 <script>build.xml</script>
                 <target>jar</target>
@@ -39,6 +39,7 @@
         </references>
         <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
             <word>futureproofing</word>
+            <word>recomputation</word>
             <word>sender's</word>
         </spellchecker-wordlist>
     </configuration>
